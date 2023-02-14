@@ -1,4 +1,4 @@
-![alt text](http://url/to/logo.jpg)
+<img src="logo.jpg" alt="Alt text" title="Optional title">
 
 
 # presentation
