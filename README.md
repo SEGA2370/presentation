@@ -1,5 +1,5 @@
 
-![alt text](/logo.png)
+![alt text](logo.jpg)
 
 # Presentation.
 ## 1st Java Lesson..
