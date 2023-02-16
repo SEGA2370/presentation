@@ -17,11 +17,11 @@
 ## Hosting
 
 ### JavaScript Hoisting refers to the process whereby the interpreter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code. Hoisting is not a term normatively defined in the ECMAScript specification
-![alt text](Hosting.png)
+![alt text](hosting.png)
 
 ## Recursion
 ### Lets see Example
-![alt text](Recursion.png)
+![alt text](Recursion.PNG)
 ## Description
 ### Recursion is a programming pattern or concept embedded in many programming languages, and JavaScript is not left out. It is a feature used in creating a function that keeps calling itself but with a smaller input every consecutive time until the code's desired result from the start is achieved.
 
