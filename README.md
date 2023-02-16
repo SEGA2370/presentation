@@ -3,7 +3,12 @@
 ## 3-)Hosting
 ## 4-)Recursion & Closure
 
-![alt text](logo.jpg | width:50%)
+![alt text](logo.jpg)
+
+# Lets Start Dont be Scared
+
+### Function Decloration & Expression Difference
+![alt text](Function.PNG)
 
 # Presentation.
 ## 1st Java Lesson..
