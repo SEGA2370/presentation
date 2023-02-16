@@ -1,5 +1,5 @@
 
-
+![alt text](http://url/to/logo.png)
 
 # Presentation.
 ## 1st Java Lesson..
